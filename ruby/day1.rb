@@ -25,7 +25,7 @@ that picks a random number. Let a player guess the number,
 telling the player whether the guess is too low or too high.
 =end
 
-print "Welcome to the Guessing game\n"
+puts "Welcome to the Guessing game"
 print "Enter a number :"
 number = gets.to_i
 
